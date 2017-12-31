@@ -1,0 +1,906 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+	<feed xmlns:im="http://itunes.apple.com/rss" xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
+		<id>https://itunes.apple.com/jp/rss/topsongs/limit=10/xml</id><title>iTunes Store: トップソング</title><updated>2017-12-09T21:25:52-07:00</updated><link rel="alternate" type="text/html" href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewTop?cc=jp&amp;id=1000&amp;popId=1"/><link rel="self" href="https://itunes.apple.com/jp/rss/topsongs/limit=10/xml"/><icon>http://itunes.apple.com/favicon.ico</icon><author><name>iTunes Store</name><uri>http://www.apple.com/jp/itunes/</uri></author><rights>Copyright 2008 Apple Inc.</rights>
+		
+			<entry>
+				<updated>2017-12-09T21:25:52-07:00</updated>
+				
+					<id im:id="1313602295">https://itunes.apple.com/jp/album/%E3%81%82%E3%81%AA%E3%81%9F/1313602294?i=1313602295&amp;uo=2</id>
+				
+					<title>あなた - 宇多田ヒカル</title>
+				
+					
+				
+					<im:name>あなた</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/%E3%81%82%E3%81%AA%E3%81%9F/1313602294?i=1313602295&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="27" term="J-Pop" scheme="https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2" label="J-Pop"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/94/2a/46/942a46d9-d882-238d-fb30-794b97f701d5/mzaf_5254443862883177926.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://itunes.apple.com/jp/artist/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB/18756224?uo=2">宇多田ヒカル</im:artist>
+				
+					<im:price amount="250.00000" currency="JPY">¥250</im:price>
+				
+					<im:image height="55">http://is5.mzstatic.com/image/thumb/Music128/v4/b9/b6/3d/b9b63dd3-ac9f-f5cd-1416-8800d93421ae/jacket_ESXX01748B01A_550.jpg/55x55bb-85.jpg</im:image>
+				
+					<im:image height="60">http://is1.mzstatic.com/image/thumb/Music128/v4/b9/b6/3d/b9b63dd3-ac9f-f5cd-1416-8800d93421ae/jacket_ESXX01748B01A_550.jpg/60x60bb-85.jpg</im:image>
+				
+					<im:image height="170">http://is2.mzstatic.com/image/thumb/Music128/v4/b9/b6/3d/b9b63dd3-ac9f-f5cd-1416-8800d93421ae/jacket_ESXX01748B01A_550.jpg/170x170bb-85.jpg</im:image>
+				
+					<rights>&#8471; 2017 Epic Records Japan</rights>
+				
+					<im:releaseDate label="2017年12月8日 ">2017-12-08T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>あなた - Single</im:name><link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/%E3%81%82%E3%81%AA%E3%81%9F-single/1313602294?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/%E3%81%82%E3%81%AA%E3%81%9F/1313602294?i=1313602295&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;宇多田ヒカル - あなた アートワーク&quot; src=&quot;http://is2.mzstatic.com/image/thumb/Music128/v4/b9/b6/3d/b9b63dd3-ac9f-f5cd-1416-8800d93421ae/jacket_ESXX01748B01A_550.jpg/170x170bb-85.jpg&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/jp/album/%E3%81%82%E3%81%AA%E3%81%9F/1313602294?i=1313602295&amp;uo=2&quot;&gt;あなた&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/%E3%81%82%E3%81%AA%E3%81%9F-single/1313602294?uo=2&quot;&gt;あなた - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/jp/artist/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB/18756224?uo=2&quot;&gt;宇多田ヒカル&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2&quot;&gt;J-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥250
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2017年12月8日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2017 Epic Records Japan&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2017-12-09T21:25:52-07:00</updated>
+				
+					<id im:id="1311280943">https://itunes.apple.com/jp/album/jupiter/1311280941?i=1311280943&amp;uo=2</id>
+				
+					<title>Jupiter - Little Glee Monster</title>
+				
+					
+				
+					<im:name>Jupiter</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/jupiter/1311280941?i=1311280943&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="27" term="J-Pop" scheme="https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2" label="J-Pop"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/6e/74/d6/6e74d6cf-a80d-9c0d-fa44-ef9867ad5c33/mzaf_4259835892506273476.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://itunes.apple.com/jp/artist/little-glee-monster/839998091?uo=2">Little Glee Monster</im:artist>
+				
+					<im:price amount="250.00000" currency="JPY">¥250</im:price>
+				
+					<im:image height="55">http://is2.mzstatic.com/image/thumb/Music118/v4/d2/6f/62/d26f6261-a0cc-66c4-8678-c16077ff63db/jacket_SRXX02526B01A_550.jpg/55x55bb-85.jpg</im:image>
+				
+					<im:image height="60">http://is3.mzstatic.com/image/thumb/Music118/v4/d2/6f/62/d26f6261-a0cc-66c4-8678-c16077ff63db/jacket_SRXX02526B01A_550.jpg/60x60bb-85.jpg</im:image>
+				
+					<im:image height="170">http://is4.mzstatic.com/image/thumb/Music118/v4/d2/6f/62/d26f6261-a0cc-66c4-8678-c16077ff63db/jacket_SRXX02526B01A_550.jpg/170x170bb-85.jpg</im:image>
+				
+					<rights>&#8471; 2017 Sony Music Records</rights>
+				
+					<im:releaseDate label="2017年12月3日 ">2017-12-03T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>Jupiter - Single</im:name><link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/jupiter-single/1311280941?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/jupiter/1311280941?i=1311280943&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;Little Glee Monster - Jupiter アートワーク&quot; src=&quot;http://is4.mzstatic.com/image/thumb/Music118/v4/d2/6f/62/d26f6261-a0cc-66c4-8678-c16077ff63db/jacket_SRXX02526B01A_550.jpg/170x170bb-85.jpg&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/jp/album/jupiter/1311280941?i=1311280943&amp;uo=2&quot;&gt;Jupiter&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/jupiter-single/1311280941?uo=2&quot;&gt;Jupiter - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/jp/artist/little-glee-monster/839998091?uo=2&quot;&gt;Little Glee Monster&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2&quot;&gt;J-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥250
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2017年12月3日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2017 Sony Music Records&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2017-12-09T21:25:52-07:00</updated>
+				
+					<id im:id="1314236184">https://itunes.apple.com/jp/album/%E4%BA%BA%E7%94%9F%E3%81%AF%E5%A4%A2%E3%81%A0%E3%82%89%E3%81%91/1314236181?i=1314236184&amp;uo=2</id>
+				
+					<title>人生は夢だらけ - 椎名林檎</title>
+				
+					
+				
+					<im:name>人生は夢だらけ</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/%E4%BA%BA%E7%94%9F%E3%81%AF%E5%A4%A2%E3%81%A0%E3%82%89%E3%81%91/1314236181?i=1314236184&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="27" term="J-Pop" scheme="https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2" label="J-Pop"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/a7/a0/a2/a7a0a2e9-1db2-7de7-0796-5a9d87b592aa/mzaf_4144021162025490807.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://itunes.apple.com/jp/artist/%E6%A4%8E%E5%90%8D%E6%9E%97%E6%AA%8E/74576999?uo=2">椎名林檎</im:artist>
+				
+					<im:price amount="250.00000" currency="JPY">¥250</im:price>
+				
+					<im:image height="55">http://is3.mzstatic.com/image/thumb/Music128/v4/db/c2/16/dbc216e2-e002-be6a-876d-c7796cf4e6b5/17UM1IM51787.jpg/55x55bb-85.jpg</im:image>
+				
+					<im:image height="60">http://is4.mzstatic.com/image/thumb/Music128/v4/db/c2/16/dbc216e2-e002-be6a-876d-c7796cf4e6b5/17UM1IM51787.jpg/60x60bb-85.jpg</im:image>
+				
+					<im:image height="170">http://is2.mzstatic.com/image/thumb/Music128/v4/db/c2/16/dbc216e2-e002-be6a-876d-c7796cf4e6b5/17UM1IM51787.jpg/170x170bb-85.jpg</im:image>
+				
+					<rights>An EMI Records release; &#8471;2017 UNIVERSAL MUSIC LLC</rights>
+				
+					<im:releaseDate label="2017年12月6日 ">2017-12-06T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>逆輸入 〜航空局〜</im:name><link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/reimport-vol-2-civil-aviation-bureau/1314236181?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/%E4%BA%BA%E7%94%9F%E3%81%AF%E5%A4%A2%E3%81%A0%E3%82%89%E3%81%91/1314236181?i=1314236184&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;椎名林檎 - 人生は夢だらけ アートワーク&quot; src=&quot;http://is2.mzstatic.com/image/thumb/Music128/v4/db/c2/16/dbc216e2-e002-be6a-876d-c7796cf4e6b5/17UM1IM51787.jpg/170x170bb-85.jpg&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/jp/album/%E4%BA%BA%E7%94%9F%E3%81%AF%E5%A4%A2%E3%81%A0%E3%82%89%E3%81%91/1314236181?i=1314236184&amp;uo=2&quot;&gt;人生は夢だらけ&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/reimport-vol-2-civil-aviation-bureau/1314236181?uo=2&quot;&gt;逆輸入 〜航空局〜&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/jp/artist/%E6%A4%8E%E5%90%8D%E6%9E%97%E6%AA%8E/74576999?uo=2&quot;&gt;椎名林檎&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2&quot;&gt;J-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥250
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2017年12月6日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; An EMI Records release; ℗2017 UNIVERSAL MUSIC LLC&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2017-12-09T21:25:52-07:00</updated>
+				
+					<id im:id="1250238530">https://itunes.apple.com/jp/album/%E6%A5%93/1250237998?i=1250238530&amp;uo=2</id>
+				
+					<title>楓 - スピッツ</title>
+				
+					
+				
+					<im:name>楓</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/%E6%A5%93/1250237998?i=1250238530&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="27" term="J-Pop" scheme="https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2" label="J-Pop"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview127/v4/cc/83/47/cc83474f-780a-df5f-431d-0732795df2f7/mzaf_7922766312115054716.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://itunes.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=2">スピッツ</im:artist>
+				
+					<im:price amount="250.00000" currency="JPY">¥250</im:price>
+				
+					<im:image height="55">http://is2.mzstatic.com/image/thumb/Music127/v4/7a/bb/1c/7abb1c52-333e-b651-baab-054f0d14b0f9/17UM1IM01720.jpg/55x55bb-85.jpg</im:image>
+				
+					<im:image height="60">http://is3.mzstatic.com/image/thumb/Music127/v4/7a/bb/1c/7abb1c52-333e-b651-baab-054f0d14b0f9/17UM1IM01720.jpg/60x60bb-85.jpg</im:image>
+				
+					<im:image height="170">http://is1.mzstatic.com/image/thumb/Music127/v4/7a/bb/1c/7abb1c52-333e-b651-baab-054f0d14b0f9/17UM1IM01720.jpg/170x170bb-85.jpg</im:image>
+				
+					<rights>&#8471; 2017 UNIVERSAL J, a division of UNIVERSAL MUSIC LLC</rights>
+				
+					<im:releaseDate label="2006年3月25日 ">2006-03-25T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>CYCLE HIT 1991-2017 Spitz Complete Single Collection -30th Anniversary BOX-</im:name><link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/cycle-hit-1991-2017-spitz-complete-single-collection/1250237998?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/%E6%A5%93/1250237998?i=1250238530&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;スピッツ - 楓 アートワーク&quot; src=&quot;http://is1.mzstatic.com/image/thumb/Music127/v4/7a/bb/1c/7abb1c52-333e-b651-baab-054f0d14b0f9/17UM1IM01720.jpg/170x170bb-85.jpg&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/jp/album/%E6%A5%93/1250237998?i=1250238530&amp;uo=2&quot;&gt;楓&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/cycle-hit-1991-2017-spitz-complete-single-collection/1250237998?uo=2&quot;&gt;CYCLE HIT 1991-2017 Spitz Complete Single Collection -30th Anniversary BOX-&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=2&quot;&gt;スピッツ&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2&quot;&gt;J-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥250
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2006年3月25日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2017 UNIVERSAL J, a division of UNIVERSAL MUSIC LLC&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2017-12-09T21:25:52-07:00</updated>
+				
+					<id im:id="1316479576">https://itunes.apple.com/jp/album/grand-symphony/1316479575?i=1316479576&amp;uo=2</id>
+				
+					<title>Grand symphony - 佐咲紗花</title>
+				
+					
+				
+					<im:name>Grand symphony</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/grand-symphony/1316479575?i=1316479576&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="29" term="Anime" scheme="https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%A2%E3%83%8B%E3%83%A1/id29?uo=2" label="アニメ"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/33/e2/d0/33e2d040-0bdc-cfba-6a43-ebb31909d16e/mzaf_7263043169162636115.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://itunes.apple.com/jp/artist/%E4%BD%90%E5%92%B2%E7%B4%97%E8%8A%B1/352287603?uo=2">佐咲紗花</im:artist>
+				
+					<im:price amount="250.00000" currency="JPY">¥250</im:price>
+				
+					<im:image height="55">http://is4.mzstatic.com/image/thumb/Music128/v4/cc/9b/b3/cc9bb337-d338-6b66-c399-a487e0318c3c/LACM-14694.jpg/55x55bb-85.jpg</im:image>
+				
+					<im:image height="60">http://is5.mzstatic.com/image/thumb/Music128/v4/cc/9b/b3/cc9bb337-d338-6b66-c399-a487e0318c3c/LACM-14694.jpg/60x60bb-85.jpg</im:image>
+				
+					<im:image height="170">http://is1.mzstatic.com/image/thumb/Music128/v4/cc/9b/b3/cc9bb337-d338-6b66-c399-a487e0318c3c/LACM-14694.jpg/170x170bb-85.jpg</im:image>
+				
+					<rights>&#8471; ランティス</rights>
+				
+					<im:releaseDate label="2017年12月6日 ">2017-12-06T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>Grand symphony - Single</im:name><link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/grand-symphony-single/1316479575?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/grand-symphony/1316479575?i=1316479576&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;佐咲紗花 - Grand symphony アートワーク&quot; src=&quot;http://is1.mzstatic.com/image/thumb/Music128/v4/cc/9b/b3/cc9bb337-d338-6b66-c399-a487e0318c3c/LACM-14694.jpg/170x170bb-85.jpg&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/jp/album/grand-symphony/1316479575?i=1316479576&amp;uo=2&quot;&gt;Grand symphony&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/grand-symphony-single/1316479575?uo=2&quot;&gt;Grand symphony - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/jp/artist/%E4%BD%90%E5%92%B2%E7%B4%97%E8%8A%B1/352287603?uo=2&quot;&gt;佐咲紗花&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%A2%E3%83%8B%E3%83%A1/id29?uo=2&quot;&gt;アニメ&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥250
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2017年12月6日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ ランティス&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2017-12-09T21:25:52-07:00</updated>
+				
+					<id im:id="1310424249">https://itunes.apple.com/jp/album/%E6%B8%85%E5%BB%89%E3%81%AA%E3%82%8Bheretics/1310422397?i=1310424249&amp;uo=2</id>
+				
+					<title>清廉なるHeretics - Fate/Grand Order</title>
+				
+					
+				
+					<im:name>清廉なるHeretics</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/%E6%B8%85%E5%BB%89%E3%81%AA%E3%82%8Bheretics/1310422397?i=1310424249&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="29" term="Anime" scheme="https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%A2%E3%83%8B%E3%83%A1/id29?uo=2" label="アニメ"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/cc/83/50/cc8350b5-1813-1ae0-61d8-1f44f26ac7d5/mzaf_3954116109050713226.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://itunes.apple.com/jp/artist/fate-grand-order/1213260393?uo=2">Fate/Grand Order</im:artist>
+				
+					<im:price amount="250.00000" currency="JPY">¥250</im:price>
+				
+					<im:image height="55">http://is1.mzstatic.com/image/thumb/Music128/v4/b9/21/4a/b9214a69-6f8c-eb84-6301-f72e63c3dec1/jacket_ANXX00831B01A_550.jpg/55x55bb-85.jpg</im:image>
+				
+					<im:image height="60">http://is2.mzstatic.com/image/thumb/Music128/v4/b9/21/4a/b9214a69-6f8c-eb84-6301-f72e63c3dec1/jacket_ANXX00831B01A_550.jpg/60x60bb-85.jpg</im:image>
+				
+					<im:image height="170">http://is2.mzstatic.com/image/thumb/Music128/v4/b9/21/4a/b9214a69-6f8c-eb84-6301-f72e63c3dec1/jacket_ANXX00831B01A_550.jpg/170x170bb-85.jpg</im:image>
+				
+					<rights>&#8471; 2017 Aniplex Inc.</rights>
+				
+					<im:releaseDate label="2017年11月29日 ">2017-11-29T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>清廉なるHeretics - Single</im:name><link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/%E6%B8%85%E5%BB%89%E3%81%AA%E3%82%8Bheretics-single/1310422397?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/%E6%B8%85%E5%BB%89%E3%81%AA%E3%82%8Bheretics/1310422397?i=1310424249&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;Fate/Grand Order - 清廉なるHeretics アートワーク&quot; src=&quot;http://is2.mzstatic.com/image/thumb/Music128/v4/b9/21/4a/b9214a69-6f8c-eb84-6301-f72e63c3dec1/jacket_ANXX00831B01A_550.jpg/170x170bb-85.jpg&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/jp/album/%E6%B8%85%E5%BB%89%E3%81%AA%E3%82%8Bheretics/1310422397?i=1310424249&amp;uo=2&quot;&gt;清廉なるHeretics&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/%E6%B8%85%E5%BB%89%E3%81%AA%E3%82%8Bheretics-single/1310422397?uo=2&quot;&gt;清廉なるHeretics - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/jp/artist/fate-grand-order/1213260393?uo=2&quot;&gt;Fate/Grand Order&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%A2%E3%83%8B%E3%83%A1/id29?uo=2&quot;&gt;アニメ&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥250
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2017年11月29日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2017 Aniplex Inc.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2017-12-09T21:25:52-07:00</updated>
+				
+					<id im:id="1263790415">https://itunes.apple.com/jp/album/%E6%89%93%E4%B8%8A%E8%8A%B1%E7%81%AB/1263790414?i=1263790415&amp;uo=2</id>
+				
+					<title>打上花火 - DAOKO×米津玄師</title>
+				
+					
+				
+					<im:name>打上花火</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/%E6%89%93%E4%B8%8A%E8%8A%B1%E7%81%AB/1263790414?i=1263790415&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="27" term="J-Pop" scheme="https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2" label="J-Pop"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/49/cd/c8/49cdc8bf-9ffa-4312-88cf-ff12bf0e72a0/mzaf_7123693879677143341.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://itunes.apple.com/jp/artist/daoko/547853144?uo=2">DAOKO×米津玄師</im:artist>
+				
+					<im:price amount="250.00000" currency="JPY">¥250</im:price>
+				
+					<im:image height="55">http://is1.mzstatic.com/image/thumb/Music128/v4/23/1a/38/231a38d7-ad07-b9bb-6064-ee6c154a3069/TFCC-89632WW.jpg/55x55bb-85.jpg</im:image>
+				
+					<im:image height="60">http://is2.mzstatic.com/image/thumb/Music128/v4/23/1a/38/231a38d7-ad07-b9bb-6064-ee6c154a3069/TFCC-89632WW.jpg/60x60bb-85.jpg</im:image>
+				
+					<im:image height="170">http://is3.mzstatic.com/image/thumb/Music128/v4/23/1a/38/231a38d7-ad07-b9bb-6064-ee6c154a3069/TFCC-89632WW.jpg/170x170bb-85.jpg</im:image>
+				
+					<rights>&#8471; 2017 TOY&#39;S FACTORY</rights>
+				
+					<im:releaseDate label="2017年8月16日 ">2017-08-16T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>打上花火 - Single</im:name><link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/uchiagehanabi-single/1263790414?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/%E6%89%93%E4%B8%8A%E8%8A%B1%E7%81%AB/1263790414?i=1263790415&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;DAOKO×米津玄師 - 打上花火 アートワーク&quot; src=&quot;http://is3.mzstatic.com/image/thumb/Music128/v4/23/1a/38/231a38d7-ad07-b9bb-6064-ee6c154a3069/TFCC-89632WW.jpg/170x170bb-85.jpg&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/jp/album/%E6%89%93%E4%B8%8A%E8%8A%B1%E7%81%AB/1263790414?i=1263790415&amp;uo=2&quot;&gt;打上花火&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/uchiagehanabi-single/1263790414?uo=2&quot;&gt;打上花火 - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/jp/artist/daoko/547853144?uo=2&quot;&gt;DAOKO×米津玄師&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2&quot;&gt;J-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥250
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2017年8月16日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2017 TOY'S FACTORY&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2017-12-09T21:25:52-07:00</updated>
+				
+					<id im:id="1231374318">https://itunes.apple.com/jp/album/%E3%83%8E%E3%83%B3%E3%83%95%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/1231374311?i=1231374318&amp;uo=2</id>
+				
+					<title>ノンフィクション - 平井 堅</title>
+				
+					
+				
+					<im:name>ノンフィクション</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/%E3%83%8E%E3%83%B3%E3%83%95%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/1231374311?i=1231374318&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="27" term="J-Pop" scheme="https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2" label="J-Pop"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview117/v4/2c/24/d5/2c24d565-b026-d616-6138-17bc476ae0fa/mzaf_7859941248180037339.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://itunes.apple.com/jp/artist/%E5%B9%B3%E4%BA%95-%E5%A0%85/259883314?uo=2">平井 堅</im:artist>
+				
+					<im:price amount="250.00000" currency="JPY">¥250</im:price>
+				
+					<im:image height="55">http://is3.mzstatic.com/image/thumb/Music127/v4/a5/55/6d/a5556de7-7c70-79d1-c567-e5ab37924d63/dj.vckennme.jpg/55x55bb-85.jpg</im:image>
+				
+					<im:image height="60">http://is4.mzstatic.com/image/thumb/Music127/v4/a5/55/6d/a5556de7-7c70-79d1-c567-e5ab37924d63/dj.vckennme.jpg/60x60bb-85.jpg</im:image>
+				
+					<im:image height="170">http://is3.mzstatic.com/image/thumb/Music127/v4/a5/55/6d/a5556de7-7c70-79d1-c567-e5ab37924d63/dj.vckennme.jpg/170x170bb-85.jpg</im:image>
+				
+					<rights>&#8471; 2017 Ariola Japan</rights>
+				
+					<im:releaseDate label="2017年6月7日 ">2017-06-07T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>ノンフィクション - EP</im:name><link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/%E3%83%8E%E3%83%B3%E3%83%95%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3-ep/1231374311?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/%E3%83%8E%E3%83%B3%E3%83%95%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/1231374311?i=1231374318&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;平井 堅 - ノンフィクション アートワーク&quot; src=&quot;http://is3.mzstatic.com/image/thumb/Music127/v4/a5/55/6d/a5556de7-7c70-79d1-c567-e5ab37924d63/dj.vckennme.jpg/170x170bb-85.jpg&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/jp/album/%E3%83%8E%E3%83%B3%E3%83%95%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/1231374311?i=1231374318&amp;uo=2&quot;&gt;ノンフィクション&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/%E3%83%8E%E3%83%B3%E3%83%95%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3-ep/1231374311?uo=2&quot;&gt;ノンフィクション - EP&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/jp/artist/%E5%B9%B3%E4%BA%95-%E5%A0%85/259883314?uo=2&quot;&gt;平井 堅&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2&quot;&gt;J-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥250
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2017年6月7日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2017 Ariola Japan&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2017-12-09T21:25:52-07:00</updated>
+				
+					<id im:id="1292541886">https://itunes.apple.com/jp/album/%E7%81%B0%E8%89%B2%E3%81%A8%E9%9D%92-%E8%8F%85%E7%94%B0%E5%B0%86%E6%9A%89/1292541373?i=1292541886&amp;uo=2</id>
+				
+					<title>灰色と青 ( + 菅田将暉 ) - 米津玄師</title>
+				
+					
+				
+					<im:name>灰色と青 ( + 菅田将暉 )</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/%E7%81%B0%E8%89%B2%E3%81%A8%E9%9D%92-%E8%8F%85%E7%94%B0%E5%B0%86%E6%9A%89/1292541373?i=1292541886&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="27" term="J-Pop" scheme="https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2" label="J-Pop"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/6a/42/da/6a42da79-155d-13e6-a774-67cd203bcbac/mzaf_4172816473092114167.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://itunes.apple.com/jp/artist/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB/530814268?uo=2">米津玄師</im:artist>
+				
+					<im:price amount="250.00000" currency="JPY">¥250</im:price>
+				
+					<im:image height="55">http://is1.mzstatic.com/image/thumb/Music128/v4/a2/cb/b0/a2cbb04e-4dce-9afe-b96f-7f9603cb7fad/jacket_SRCL09571B01A_550.jpg/55x55bb-85.jpg</im:image>
+				
+					<im:image height="60">http://is2.mzstatic.com/image/thumb/Music128/v4/a2/cb/b0/a2cbb04e-4dce-9afe-b96f-7f9603cb7fad/jacket_SRCL09571B01A_550.jpg/60x60bb-85.jpg</im:image>
+				
+					<im:image height="170">http://is4.mzstatic.com/image/thumb/Music128/v4/a2/cb/b0/a2cbb04e-4dce-9afe-b96f-7f9603cb7fad/jacket_SRCL09571B01A_550.jpg/170x170bb-85.jpg</im:image>
+				
+					<rights>&#8471; 2017 Sony Music Records</rights>
+				
+					<im:releaseDate label="2017年11月1日 ">2017-11-01T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>BOOTLEG</im:name><link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/bootleg/1292541373?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/%E7%81%B0%E8%89%B2%E3%81%A8%E9%9D%92-%E8%8F%85%E7%94%B0%E5%B0%86%E6%9A%89/1292541373?i=1292541886&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;米津玄師 - 灰色と青 ( + 菅田将暉 ) アートワーク&quot; src=&quot;http://is4.mzstatic.com/image/thumb/Music128/v4/a2/cb/b0/a2cbb04e-4dce-9afe-b96f-7f9603cb7fad/jacket_SRCL09571B01A_550.jpg/170x170bb-85.jpg&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/jp/album/%E7%81%B0%E8%89%B2%E3%81%A8%E9%9D%92-%E8%8F%85%E7%94%B0%E5%B0%86%E6%9A%89/1292541373?i=1292541886&amp;uo=2&quot;&gt;灰色と青 ( + 菅田将暉 )&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/bootleg/1292541373?uo=2&quot;&gt;BOOTLEG&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/jp/artist/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB/530814268?uo=2&quot;&gt;米津玄師&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2&quot;&gt;J-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥250
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2017年11月1日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2017 Sony Music Records&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2017-12-09T21:25:52-07:00</updated>
+				
+					<id im:id="1226258283">https://itunes.apple.com/jp/album/%E6%B8%A1%E6%9C%88%E6%A9%8B-%E5%90%9B-%E6%83%B3%E3%81%B5/1226258280?i=1226258283&amp;uo=2</id>
+				
+					<title>渡月橋 ~君 想ふ~ - 倉木麻衣</title>
+				
+					
+				
+					<im:name>渡月橋 ~君 想ふ~</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/%E6%B8%A1%E6%9C%88%E6%A9%8B-%E5%90%9B-%E6%83%B3%E3%81%B5/1226258280?i=1226258283&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="27" term="J-Pop" scheme="https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2" label="J-Pop"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview122/v4/99/7c/30/997c30c4-d7ed-ab80-11ac-b889b6ff08b2/mzaf_2024382922250357683.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://itunes.apple.com/jp/artist/%E5%80%89%E6%9C%A8%E9%BA%BB%E8%A1%A3/73794923?uo=2">倉木麻衣</im:artist>
+				
+					<im:price amount="250.00000" currency="JPY">¥250</im:price>
+				
+					<im:image height="55">http://is3.mzstatic.com/image/thumb/Music111/v4/da/d6/22/dad6226d-3440-ac0f-8bb6-7b8e424916d2/VNCM-6040.jpg/55x55bb-85.jpg</im:image>
+				
+					<im:image height="60">http://is4.mzstatic.com/image/thumb/Music111/v4/da/d6/22/dad6226d-3440-ac0f-8bb6-7b8e424916d2/VNCM-6040.jpg/60x60bb-85.jpg</im:image>
+				
+					<im:image height="170">http://is2.mzstatic.com/image/thumb/Music111/v4/da/d6/22/dad6226d-3440-ac0f-8bb6-7b8e424916d2/VNCM-6040.jpg/170x170bb-85.jpg</im:image>
+				
+					<rights>&#8471; Being,INC.</rights>
+				
+					<im:releaseDate label="2017年4月12日 ">2017-04-12T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>渡月橋 ~君 想ふ~ - Single</im:name><link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/%E6%B8%A1%E6%9C%88%E6%A9%8B-%E5%90%9B-%E6%83%B3%E3%81%B5-single/1226258280?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/%E6%B8%A1%E6%9C%88%E6%A9%8B-%E5%90%9B-%E6%83%B3%E3%81%B5/1226258280?i=1226258283&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;倉木麻衣 - 渡月橋 ~君 想ふ~ アートワーク&quot; src=&quot;http://is2.mzstatic.com/image/thumb/Music111/v4/da/d6/22/dad6226d-3440-ac0f-8bb6-7b8e424916d2/VNCM-6040.jpg/170x170bb-85.jpg&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/jp/album/%E6%B8%A1%E6%9C%88%E6%A9%8B-%E5%90%9B-%E6%83%B3%E3%81%B5/1226258280?i=1226258283&amp;uo=2&quot;&gt;渡月橋 ~君 想ふ~&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/%E6%B8%A1%E6%9C%88%E6%A9%8B-%E5%90%9B-%E6%83%B3%E3%81%B5-single/1226258280?uo=2&quot;&gt;渡月橋 ~君 想ふ~ - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/jp/artist/%E5%80%89%E6%9C%A8%E9%BA%BB%E8%A1%A3/73794923?uo=2&quot;&gt;倉木麻衣&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2&quot;&gt;J-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥250
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2017年4月12日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ Being,INC.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+	</feed>
